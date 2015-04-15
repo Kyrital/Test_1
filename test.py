@@ -9,3 +9,5 @@ def times_pi(number):
 
 print(times_pi(b))
 print(c)
+print(a+b)
+print(c+c)
